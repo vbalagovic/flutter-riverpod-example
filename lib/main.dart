@@ -23,6 +23,7 @@ class MovieApp extends ConsumerWidget {
     final ThemeData theme = ThemeData();
 
     List<Movie> formattedMovies = ref.watch(moviesProvider).movies;
+    bool isLoading = ref.watch(moviesProvider).isLoading;
 
     return MaterialApp(
         theme: theme.copyWith(
@@ -49,7 +50,7 @@ class MovieApp extends ConsumerWidget {
                     },
                   ),
                 ),
-                Expanded(
+                isLoading ? CircularProgressIndicator() : Expanded(
                   child: Container(
                       color: Colors.white,
                       child: ListView.builder(
