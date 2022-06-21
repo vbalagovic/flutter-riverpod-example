@@ -1,0 +1,29 @@
+[
+    {
+       "Title":"Dog",
+       "Year":"2022",
+       "Genre":["Comedy, Drama"],
+       "Plot":"Two former Army Rangers are paired against their will on the road trip of a lifetime. Briggs (Channing Tatum) and Lulu (a Belgian Malinois) race down the Pacific Coast to get to a fellow soldier's funeral on time.",
+       "Poster":"https://m.media-amazon.com/images/M/MV5BYjA2MDM2YjctYzNhNC00NGEzLWFmYWEtODExODFkNmUyOGE2XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_SX300.jpg",
+       "imdbRating":"6.5",
+       "Type":"movie"
+    },
+    {
+       "Title":"Dogs",
+       "Year":"2016",
+       "Genre":["Drama, Thriller"],
+       "Plot":"Roman returns to the land he has just inherited from his grandfather. Fully decided to sell this vast but desolate property, he is warned by the local cop that his grandfather was a local crime lord and his men will not let go of the",
+       "Poster":"https://m.media-amazon.com/images/M/MV5BYWJiYjI1MzEtMzQzOS00ZjkxLWI3NDAtMzNkODhjYjM0Y2ExXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+       "imdbRating":"7.1",
+       "Type":"movie"
+    },
+    {
+       "Title":"Toy Story",
+       "Year":"1995",
+       "Genre":["Animation, Adventure, Comedy"],
+       "Plot":"A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+       "Poster":"https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+       "imdbRating":"8.3",
+       "Type":"movie"
+    }
+ ]
