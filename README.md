@@ -1,6 +1,9 @@
 # riverpod_movie_example
 
-A new Flutter project.
+Simple riverpod usage in flutter application with reactive search input.
+
+Detailed explanation in article:
+https://medium.com/p/f183de192445
 
 ## Getting Started
 
